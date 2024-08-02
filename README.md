@@ -32,4 +32,4 @@ Reduces college EE lab grading time from hours to a few minutes!
 - `isim_autograder.py` contains code to interact with the Canvas and Azure OpenAI APIs, and also manage student submission files.
 - `secret_constants.py` contains information about the Canvas and Azure OpenAI APIs.
 - `requirements.txt` contains a list of library dependencies needed to run the auto-grader. 
-- the `assignmentData` folder should stay empty and is used to process files.
+- The `assignmentData` folder should stay empty and is used to process files.
